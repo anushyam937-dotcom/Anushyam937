@@ -14,7 +14,7 @@
 
   <footer class="footer">
 
-    <p>© <span id="year"></span>subhasri  | Made with 💖</p>
+    <p>© <span id="year"></span> ANUSUYA| Made with 💖</p>
 
   </footer>
 
